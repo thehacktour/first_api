@@ -18,19 +18,19 @@ Esta é uma API simples para cadastrar e visualizar informações básicas de li
 #### Listar todos os livros
 
 ```http
-  GET /api/books/
+  GET /{localhost}/books/
 ```
 
 #### Visualizar detalhes de um livro específico
 
 ```http
-  GET /api/books/{id}/
+  GET /{localhost}/books/{id}/
 ```
 
 #### Cadastrar um novo livro
 
 ```http
-  POST /api/books/
+  POST /{localhost}/books/
 
   Exemplo de corpo da solicitação:
 {
