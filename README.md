@@ -44,7 +44,7 @@ Esta é uma API simples para cadastrar e visualizar informações básicas de li
 
 ## Instalação
 
-Clone o repositório
+1. Clone o repositório
 
 ```bash
   git clone https://github.com/seu-usuario/api-cadastro-livros.git
@@ -52,13 +52,13 @@ Clone o repositório
 
 ```
     
-Instale as dependências:
+2. Instale as dependências:
 ```bash
   pip install -r requirements.txt
 
 ```
 
-Execute a aplicação:
+3. Execute a aplicação:
 ```bash
   python manage.py runserver
 
