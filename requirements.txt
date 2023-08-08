@@ -26,7 +26,6 @@ simplejson==3.19.1
 Sphinx==5.3.0
 tornado==6.2
 trove_classifiers==2023.8.7
-truststore==0.7.0
 urllib3_secure_extra==0.1.0
 xmlrpclib==1.0.1
 zstandard==0.21.0
