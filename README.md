@@ -1,10 +1,10 @@
 
 
-# API de Cadastro de Livros
+# API de Cadastro de Livros 📚
 
 Esta é uma API simples para cadastrar e visualizar informações básicas de livros.
 
-## Funcionalidades
+## Funcionalidades 📋
 
 - Listar todos os livros
 - Cadastrar um novo livro
@@ -13,7 +13,7 @@ Esta é uma API simples para cadastrar e visualizar informações básicas de li
 
 
 
-## Endpoints
+## Endpoints 
 
 #### Listar todos os livros
 
@@ -42,7 +42,7 @@ Esta é uma API simples para cadastrar e visualizar informações básicas de li
 ```
 
 
-## Instalação
+## Instalação 🚀
 
 1. Clone o repositório
 
@@ -63,3 +63,9 @@ Esta é uma API simples para cadastrar e visualizar informações básicas de li
   python manage.py runserver
 
 ```
+
+## Contribuição 🤝
+Contribuições são bem-vindas! Se você encontrar algum problema ou tiver uma ideia de melhoria, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+## Licença 📜
+Este projeto está licenciado sob a MIT License.
