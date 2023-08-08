@@ -5,6 +5,7 @@ configparser==5.3.0
 contextlib2==21.6.0
 cryptography==41.0.3
 Cython==3.0.0
+decouple==3.8
 Django==3.2.12
 djangorestframework==3.14.0
 dl==0.1.0
