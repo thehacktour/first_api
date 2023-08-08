@@ -18,19 +18,19 @@ Esta é uma API simples para cadastrar e visualizar informações básicas de li
 #### Listar todos os livros
 
 ```http
-  GET /{localhost}/books/
+  GET https://listbooks-api.onrender.com/books/
 ```
 
 #### Visualizar detalhes de um livro específico
 
 ```http
-  GET /{localhost}/books/{id}/
+  GET https://listbooks-api.onrender.com/books/{id}/
 ```
 
 #### Cadastrar um novo livro
 
 ```http
-  POST /{localhost}/books/
+  POST https://listbooks-api.onrender.com/books/
 
   Exemplo de corpo da solicitação:
 {
