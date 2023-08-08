@@ -14,7 +14,7 @@ ipython==7.34.0
 ipywidgets==8.1.0
 Jinja2==3.1.2
 pyjnius==1.5.0
-keyring==24.2.0
+keyring==24.1.1
 lockfile==0.12.2
 mock==5.1.0
 numpy==1.25.2
