@@ -47,8 +47,8 @@ Esta é uma API simples para cadastrar e visualizar informações básicas de li
 1. Clone o repositório
 
 ```bash
-  git clone https://github.com/seu-usuario/api-cadastro-livros.git
-  cd api-cadastro-livros
+  git clone https://github.com/luluoliv/first_api.git
+  cd first_api
 
 ```
     
