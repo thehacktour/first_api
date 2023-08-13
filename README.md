@@ -54,7 +54,9 @@ Esta é uma API simples para cadastrar e visualizar informações básicas de li
     
 2. Instale as dependências:
 ```bash
-  pip install -r requirements.txt
+  pip install poetry
+  poetry install
+  poetry shell
 
 ```
 
