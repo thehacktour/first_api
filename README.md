@@ -65,6 +65,11 @@ Esta é uma API simples para cadastrar e visualizar informações básicas de li
   python manage.py runserver
 
 ```
+4. Use o endpoint:
+
+``` bash
+  http://localhost:8000/api/books
+```
 
 ## Contribuição 🤝
 Contribuições são bem-vindas! Se você encontrar algum problema ou tiver uma ideia de melhoria, sinta-se à vontade para abrir uma issue ou enviar um pull request.
