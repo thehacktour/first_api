@@ -31,6 +31,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
+ROOT_URLCONF = 'firstapi.urls'
+
 
 # Application definition
 
